@@ -100,6 +100,8 @@ wMomY: db
 	
 ; References
 ; -> https://gbdev.io/gb-asm-tutorial/index.html
+; Entire project can be found on my github at `https://github.com/TemiDojo/gb-dvd-logo/tree/main`
+;
 
 
 
